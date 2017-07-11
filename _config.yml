@@ -1,3 +1,4 @@
 theme: jekyll-theme-midnight
 title: Bulldog Technology
 description: Bulldog Technology is a small consulting business providing bespoke web and cloud solutions.
+show_downloads: false
